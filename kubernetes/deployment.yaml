@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: react-app-container
-          image: ivishsaggam/2048:5
+          image: ivishsaggam/2048:6
           ports:
             - containerPort: 80 # The port your React app is listening on
 
